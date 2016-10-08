@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="0e0fd030-587d-4c22-b0fa-0887ed0e1566" name="centos" url="http://10.211.55.8">
-        <fileTransfer host="10.211.55.8" port="22" rootFolder="/var/lib/tomcat6" accessType="SFTP" username="may">
+        <fileTransfer host="10.211.55.8" port="22" rootFolder="/var/lib/tomcat6" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -10,5 +10,8 @@
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAcOvhOAN8fWSzep+3JcpywjGhGxwzDjEFShmQ20rez3CvszqCHSZ5Q2ssvGmfE5taMjHiHGjIRTZPlOUVEeY3I1/l053MrGHkkvp2ETAWbXzBqSG09ke8Z7WCq3qYGtAfAiq6agloMI99xgoGraU9oLr5PLOABqA0Re9s9HwacpNE</data>
   </component>
 </application>
