@@ -1,4 +1,9 @@
 <application>
+  <component name="MessDetector">
+    <phpmd_settings>
+      <MessDetectorConfiguration />
+    </phpmd_settings>
+  </component>
   <component name="PhpInterpreters">
     <interpreters>
       <interpreter home="/usr/local/Cellar/php56/5.6.29_5/bin/php" id="84505fd3-65de-4c0d-b72d-115eab38773a" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
